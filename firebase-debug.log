@@ -1,0 +1,299 @@
+[debug] [2023-07-04T19:23:32.631Z] ----------------------------------------------------------------------
+[debug] [2023-07-04T19:23:32.633Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-07-04T19:23:32.633Z] CLI Version:   12.4.2
+[debug] [2023-07-04T19:23:32.633Z] Platform:      win32
+[debug] [2023-07-04T19:23:32.633Z] Node Version:  v18.12.1
+[debug] [2023-07-04T19:23:32.634Z] Time:          Wed Jul 05 2023 00:53:32 GMT+0530 (India Standard Time)
+[debug] [2023-07-04T19:23:32.634Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=773979688&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-07-04T19:23:46.814Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2023-07-04T19:23:46.815Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2023-07-04T19:23:47.374Z] <<< [apiv2][status] POST https://accounts.google.com/o/oauth2/token 200
+[debug] [2023-07-04T19:23:47.374Z] <<< [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[info] 
+[info] +  Success! Logged in as tanmaypani357@gmail.com 
+[debug] [2023-07-04T19:23:57.426Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-07-04T19:25:50.680Z] ----------------------------------------------------------------------
+[debug] [2023-07-04T19:25:50.682Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2023-07-04T19:25:50.682Z] CLI Version:   12.4.2
+[debug] [2023-07-04T19:25:50.683Z] Platform:      win32
+[debug] [2023-07-04T19:25:50.683Z] Node Version:  v18.12.1
+[debug] [2023-07-04T19:25:50.684Z] Time:          Wed Jul 05 2023 00:55:50 GMT+0530 (India Standard Time)
+[debug] [2023-07-04T19:25:50.684Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as tanmaypani357@gmail.com
+[debug] [2023-07-04T19:26:00.758Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-07-04T20:04:50.495Z] ----------------------------------------------------------------------
+[debug] [2023-07-04T20:04:50.499Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-07-04T20:04:50.499Z] CLI Version:   12.4.2
+[debug] [2023-07-04T20:04:50.500Z] Platform:      win32
+[debug] [2023-07-04T20:04:50.500Z] Node Version:  v18.12.1
+[debug] [2023-07-04T20:04:50.502Z] Time:          Wed Jul 05 2023 01:34:50 GMT+0530 (India Standard Time)
+[debug] [2023-07-04T20:04:50.502Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as tanmaypani357@gmail.com
+[debug] [2023-07-04T20:05:00.601Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-07-04T20:05:11.028Z] ----------------------------------------------------------------------
+[debug] [2023-07-04T20:05:11.029Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-04T20:05:11.030Z] CLI Version:   12.4.2
+[debug] [2023-07-04T20:05:11.030Z] Platform:      win32
+[debug] [2023-07-04T20:05:11.030Z] Node Version:  v18.12.1
+[debug] [2023-07-04T20:05:11.031Z] Time:          Wed Jul 05 2023 01:35:11 GMT+0530 (India Standard Time)
+[debug] [2023-07-04T20:05:11.031Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-04T20:05:11.038Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-04T20:05:11.038Z] > authorizing via signed-in user (tanmaypani357@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\TANMAY\Desktop\projects\my-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-07-04T20:05:22.728Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-07-04T20:05:23.871Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-07-04T20:05:23.871Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project pollutiontracker-c57e6 (PollutionTracker) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-07-04T20:05:36.493Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2023-07-04T20:05:36.942Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2023-07-04T20:05:36.942Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"9.23.0","browserURL":"https://www.gstatic.com/firebasejs/9.23.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/9.23.0/firebase.tgz"},"live":{"version":"9.23","browserURL":"https://www.gstatic.com/firebasejs/live/9.23/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/9.23/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/9.23.0/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/9.23.0/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/9.23.0/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/9.23.0/firebase-auth/cordova.js","auth/react-native":"https://www.gstatic.com/firebasejs/9.23.0/firebase-auth/react-native.js","functions":"https://www.gstatic.com/firebasejs/9.23.0/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/9.23.0/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/9.23.0/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/9.23.0/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/9.23.0/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/9.23.0/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore.memory.js"}}
+[info] +  Wrote build/index.html 
+[info] 
+[info] i  Writing configuration info to firebase.json... 
+[info] i  Writing project information to .firebaserc... 
+[info] 
+[info] +  Firebase initialization complete! 
+[debug] [2023-07-04T20:05:46.970Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-07-04T20:07:02.341Z] ----------------------------------------------------------------------
+[debug] [2023-07-04T20:07:02.342Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2023-07-04T20:07:02.343Z] CLI Version:   12.4.2
+[debug] [2023-07-04T20:07:02.343Z] Platform:      win32
+[debug] [2023-07-04T20:07:02.343Z] Node Version:  v18.12.1
+[debug] [2023-07-04T20:07:02.344Z] Time:          Wed Jul 05 2023 01:37:02 GMT+0530 (India Standard Time)
+[debug] [2023-07-04T20:07:02.344Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-04T20:07:02.410Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-04T20:07:02.411Z] > authorizing via signed-in user (tanmaypani357@gmail.com)
+[debug] [2023-07-04T20:07:02.411Z] [iam] checking project pollutiontracker-c57e6 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2023-07-04T20:07:02.413Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/pollutiontracker-c57e6:testIamPermissions [none]
+[debug] [2023-07-04T20:07:02.413Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/pollutiontracker-c57e6:testIamPermissions x-goog-quota-user=projects/pollutiontracker-c57e6
+[debug] [2023-07-04T20:07:02.413Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/pollutiontracker-c57e6:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-07-04T20:07:04.359Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/pollutiontracker-c57e6:testIamPermissions 200
+[debug] [2023-07-04T20:07:04.359Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/pollutiontracker-c57e6:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-07-04T20:07:04.360Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/pollutiontracker-c57e6 [none]
+[debug] [2023-07-04T20:07:05.334Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/pollutiontracker-c57e6 200
+[debug] [2023-07-04T20:07:05.334Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/pollutiontracker-c57e6 {"projectId":"pollutiontracker-c57e6","projectNumber":"974292969057","displayName":"PollutionTracker","name":"projects/pollutiontracker-c57e6","resources":{"hostingSite":"pollutiontracker-c57e6"},"state":"ACTIVE","etag":"1_f9489f58-638e-42ac-a978-8466c4e80c40"}
+[info] 
+[info] === Deploying to 'pollutiontracker-c57e6'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2023-07-04T20:07:05.341Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions [none]
+[debug] [2023-07-04T20:07:05.341Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2023-07-04T20:07:07.343Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions 200
+[debug] [2023-07-04T20:07:07.343Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions {"name":"projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[info] i  hosting[pollutiontracker-c57e6]: beginning deploy... 
+[info] i  hosting[pollutiontracker-c57e6]: found 25 files in build 
+[debug] [2023-07-04T20:07:26.433Z] [hosting] uploading with 200 concurrency
+[debug] [2023-07-04T20:07:26.434Z] [hosting] hash cache [YnVpbGQ] not populated
+[debug] [2023-07-04T20:07:26.871Z] [hosting] hash cache [YnVpbGQ] stored for 25 files
+[debug] [2023-07-04T20:07:26.871Z] [hosting][hash queue][FINAL] {"max":427,"min":26,"avg":60.44,"active":0,"complete":25,"success":25,"errored":0,"retried":0,"total":25,"elapsed":435}
+[debug] [2023-07-04T20:07:26.871Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3:populateFiles [none]
+[debug] [2023-07-04T20:07:26.871Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3:populateFiles {"files":{"/asset-manifest.json":"4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8","/index.css":"d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19","/favicon.ico":"eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9","/index.html":"c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0","/manifest.json":"aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a","/robots.txt":"bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49","/logo192.png":"3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b","/logo512.png":"ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331","/static/js/787.28cb0dcd.chunk.js":"b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0","/static/css/main.ddf74c8a.css.map":"6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336","/static/js/main.4e769b57.js.LICENSE.txt":"0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d","/static/css/main.ddf74c8a.css":"aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d","/static/js/787.28cb0dcd.chunk.js.map":"fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264","/bgImage.jpg":"c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98","/static/media/hill1.cf4b61ee12b18cff5f0b.png":"b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2","/static/media/tree.09e1743b0fa13d93c7d1.png":"d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2","/static/media/hill2.739d0c6a1d9f28e64b34.png":"82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b","/static/media/hill3.06eee5b47a9c785a1c9d.png":"e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e","/static/media/hill5.0ae62f6f9291948a04b0.png":"9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161","/static/media/hill4.a11c976073664b2f94a2.png":"21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b","/static/media/plant.68b147d871c63c5c87d8.png":"a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2","/static/media/leaf.e464cfd33f37d8e3910c.png":"b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83","/static/media/bgImg.4797e88c463d396ac7b9.jpg":"c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107","/static/js/main.4e769b57.js.map":"222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054","/static/js/main.4e769b57.js":"79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09"}}
+[debug] [2023-07-04T20:07:28.422Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3:populateFiles 200
+[debug] [2023-07-04T20:07:28.422Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3:populateFiles {"uploadRequiredHashes":["d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2","79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09","4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8","c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107","b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0","c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0","c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98","b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83","eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9","3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b","222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054","bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49","82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b","aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a","b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2","d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19","a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2","21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b","6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336","aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d","ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331","e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e","9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161","fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264","0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d"],"uploadUrl":"https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files"}
+[debug] [2023-07-04T20:07:28.427Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2 [none]
+[debug] [2023-07-04T20:07:28.427Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2 [stream]
+[debug] [2023-07-04T20:07:28.428Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09 [none]
+[debug] [2023-07-04T20:07:28.428Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09 [stream]
+[debug] [2023-07-04T20:07:28.429Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8 [none]
+[debug] [2023-07-04T20:07:28.429Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8 [stream]
+[debug] [2023-07-04T20:07:28.430Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107 [none]
+[debug] [2023-07-04T20:07:28.430Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107 [stream]
+[debug] [2023-07-04T20:07:28.431Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0 [none]
+[debug] [2023-07-04T20:07:28.431Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0 [stream]
+[debug] [2023-07-04T20:07:28.432Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0 [none]
+[debug] [2023-07-04T20:07:28.432Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0 [stream]
+[debug] [2023-07-04T20:07:28.433Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98 [none]
+[debug] [2023-07-04T20:07:28.434Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98 [stream]
+[debug] [2023-07-04T20:07:28.435Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83 [none]
+[debug] [2023-07-04T20:07:28.435Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83 [stream]
+[debug] [2023-07-04T20:07:28.437Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9 [none]
+[debug] [2023-07-04T20:07:28.437Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9 [stream]
+[debug] [2023-07-04T20:07:28.439Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b [none]
+[debug] [2023-07-04T20:07:28.439Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b [stream]
+[debug] [2023-07-04T20:07:28.440Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054 [none]
+[debug] [2023-07-04T20:07:28.441Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054 [stream]
+[debug] [2023-07-04T20:07:28.441Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49 [none]
+[debug] [2023-07-04T20:07:28.441Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49 [stream]
+[debug] [2023-07-04T20:07:28.443Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b [none]
+[debug] [2023-07-04T20:07:28.443Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b [stream]
+[debug] [2023-07-04T20:07:28.444Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a [none]
+[debug] [2023-07-04T20:07:28.444Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a [stream]
+[debug] [2023-07-04T20:07:28.445Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2 [none]
+[debug] [2023-07-04T20:07:28.445Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2 [stream]
+[debug] [2023-07-04T20:07:28.446Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19 [none]
+[debug] [2023-07-04T20:07:28.446Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19 [stream]
+[debug] [2023-07-04T20:07:28.447Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2 [none]
+[debug] [2023-07-04T20:07:28.447Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2 [stream]
+[debug] [2023-07-04T20:07:28.448Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b [none]
+[debug] [2023-07-04T20:07:28.448Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b [stream]
+[debug] [2023-07-04T20:07:28.449Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336 [none]
+[debug] [2023-07-04T20:07:28.449Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336 [stream]
+[debug] [2023-07-04T20:07:28.450Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d [none]
+[debug] [2023-07-04T20:07:28.450Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d [stream]
+[debug] [2023-07-04T20:07:28.453Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331 [none]
+[debug] [2023-07-04T20:07:28.453Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331 [stream]
+[debug] [2023-07-04T20:07:28.454Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e [none]
+[debug] [2023-07-04T20:07:28.454Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e [stream]
+[debug] [2023-07-04T20:07:28.455Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161 [none]
+[debug] [2023-07-04T20:07:28.455Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161 [stream]
+[debug] [2023-07-04T20:07:28.456Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264 [none]
+[debug] [2023-07-04T20:07:28.456Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264 [stream]
+[debug] [2023-07-04T20:07:28.457Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d [none]
+[debug] [2023-07-04T20:07:28.457Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d [stream]
+[debug] [2023-07-04T20:07:28.458Z] [hosting][populate queue][FINAL] {"max":1557,"min":1557,"avg":1557,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":1589}
+[debug] [2023-07-04T20:07:28.458Z] [hosting] uploads queued: 25
+[debug] [2023-07-04T20:07:30.050Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331 200
+[debug] [2023-07-04T20:07:30.050Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331 [stream]
+[debug] [2023-07-04T20:07:30.083Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264 200
+[debug] [2023-07-04T20:07:30.084Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/fd5999139e30bdc673c7b27e591c34362f03ef6ad32d20a3aa9efc6e11712264 [stream]
+[debug] [2023-07-04T20:07:30.451Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19 200
+[debug] [2023-07-04T20:07:30.451Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d9e98b16b40cbbc46504499cc278fdaf724a13ca87db737c55cbb4c56814df19 [stream]
+[debug] [2023-07-04T20:07:30.457Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8 200
+[debug] [2023-07-04T20:07:30.457Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/4be1b71afb83a8adee072df9b7c12b5510ecb67f344daa9f0ecf426c472ceee8 [stream]
+[debug] [2023-07-04T20:07:30.506Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49 200
+[debug] [2023-07-04T20:07:30.506Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/bfe106a3fb878dc83461c86818bf74fc1bdc7f28538ba613cd3e775516ce8b49 [stream]
+[debug] [2023-07-04T20:07:30.513Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a 200
+[debug] [2023-07-04T20:07:30.513Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a [stream]
+[debug] [2023-07-04T20:07:30.544Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9 200
+[debug] [2023-07-04T20:07:30.544Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/eae62e993eb980ec8a25058c39d5a51feab118bd2100c4deebb2a9c158ec11f9 [stream]
+[debug] [2023-07-04T20:07:30.623Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d 200
+[debug] [2023-07-04T20:07:30.623Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/0e2856497cb0df8e8c28a2f63bff2c519edbc6d50275e22f63261ab4f92e577d [stream]
+[debug] [2023-07-04T20:07:30.658Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0 200
+[debug] [2023-07-04T20:07:30.658Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b72129aadef2b1cce5f847b935b4b58bca879c736479ede4c4e80bccf03f82a0 [stream]
+[debug] [2023-07-04T20:07:30.843Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b 200
+[debug] [2023-07-04T20:07:30.843Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b [stream]
+[debug] [2023-07-04T20:07:30.869Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336 200
+[debug] [2023-07-04T20:07:30.869Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/6e25d4dce471f22bd2e73cb94d52d9e5a0aa9b6f425b40488ba1c48fb1841336 [stream]
+[debug] [2023-07-04T20:07:30.957Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d 200
+[debug] [2023-07-04T20:07:30.957Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/aeba4653607621963377a71f7b11944e4779e7fbff862c83e06c4c078908836d [stream]
+[debug] [2023-07-04T20:07:31.220Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2 200
+[debug] [2023-07-04T20:07:31.220Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/d6e9db5a9a7689ce3fe576c0d3aa497f6bb7928d2fa7a7643ce3c72ff3bf34f2 [stream]
+[debug] [2023-07-04T20:07:31.265Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98 200
+[debug] [2023-07-04T20:07:31.265Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c087b0a7e27f4f6e26ab71de8b44c4f4df2ac23144354317895701071e7d6c98 [stream]
+[debug] [2023-07-04T20:07:31.390Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0 200
+[debug] [2023-07-04T20:07:31.390Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c238a56db461678ff4e26f0f86cc8a057291706bd5d15b49c5be9dbb59936ec0 [stream]
+[debug] [2023-07-04T20:07:31.471Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2 200
+[debug] [2023-07-04T20:07:31.471Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b497379515fce24b2b1452f8e98e023d77a136c10e19263de9795a3232b3aae2 [stream]
+[debug] [2023-07-04T20:07:31.638Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b 200
+[debug] [2023-07-04T20:07:31.638Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/21271c57d979a9989408677d1b1667cfa1b90afaa083c53f66a42b47fd1e184b [stream]
+[debug] [2023-07-04T20:07:31.840Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b 200
+[debug] [2023-07-04T20:07:31.840Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/82995be7a7fe152e35f01f7fef2dff1b77fc201ba775a577f193372bde06061b [stream]
+[debug] [2023-07-04T20:07:31.840Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161 200
+[debug] [2023-07-04T20:07:31.840Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/9112d7760fecbf417cee7cb5a3947c129de51949d0da8f1e06c665e731a24161 [stream]
+[debug] [2023-07-04T20:07:31.938Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2 200
+[debug] [2023-07-04T20:07:31.938Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/a58422a656145b0f65e6d98244917793ccba336e2cb3130667f7ef741c4da4f2 [stream]
+[debug] [2023-07-04T20:07:31.943Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e 200
+[debug] [2023-07-04T20:07:31.943Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/e28f1b3996bde800e403ab74000dd0f0413b7f6d850ef53e66fc674a46975d3e [stream]
+[debug] [2023-07-04T20:07:32.814Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83 200
+[debug] [2023-07-04T20:07:32.815Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/b328e41ba566bd8fbfccd42a2f9a69a1d3b56a9ce3991d92877dc2cc15edda83 [stream]
+[debug] [2023-07-04T20:07:33.022Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107 200
+[debug] [2023-07-04T20:07:33.023Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/c40b2ec5fd9b5107035194333390bd0a00e41a43ccb4a7c88eaf4edbd8bb2107 [stream]
+[debug] [2023-07-04T20:07:33.960Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054 200
+[debug] [2023-07-04T20:07:33.960Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/222e316537524d7c53d369b247b6ef8fd40b301ddb4a4ef5ca8e64045f7a2054 [stream]
+[debug] [2023-07-04T20:07:34.204Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09 200
+[debug] [2023-07-04T20:07:34.204Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3/files/79eb32d36d590cc2d823e3cd8cf738d7091f8b97b30412b745da3253af503c09 [stream]
+[debug] [2023-07-04T20:07:34.204Z] [hosting][upload queue][FINAL] {"max":5780,"min":1624,"avg":2979.2,"active":0,"complete":25,"success":25,"errored":0,"retried":0,"total":25,"elapsed":5781}
+[info] +  hosting[pollutiontracker-c57e6]: file upload complete 
+[debug] [2023-07-04T20:07:34.206Z] [hosting] deploy completed after 7787ms
+[debug] [2023-07-04T20:07:34.206Z] [
+  {
+    "config": {
+      "public": "build",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "site": "pollutiontracker-c57e6"
+    },
+    "version": "projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3"
+  }
+]
+[info] i  hosting[pollutiontracker-c57e6]: finalizing version... 
+[debug] [2023-07-04T20:07:34.208Z] >>> [apiv2][query] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3 updateMask=status%2Cconfig
+[debug] [2023-07-04T20:07:34.209Z] >>> [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3 {"status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]}}
+[debug] [2023-07-04T20:07:35.877Z] <<< [apiv2][status] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3 200
+[debug] [2023-07-04T20:07:35.877Z] <<< [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3 {"name":"projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-07-04T20:07:03.778996Z","createUser":{"email":"tanmaypani357@gmail.com"},"finalizeTime":"2023-07-04T20:07:32.767411Z","finalizeUser":{"email":"tanmaypani357@gmail.com"}}
+[debug] [2023-07-04T20:07:35.878Z] [hosting] finalized version for pollutiontracker-c57e6:[object Object]
+[info] +  hosting[pollutiontracker-c57e6]: version finalized 
+[info] i  hosting[pollutiontracker-c57e6]: releasing new version... 
+[debug] [2023-07-04T20:07:35.879Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/channels/live/releases versionName=projects%2F974292969057%2Fsites%2Fpollutiontracker-c57e6%2Fversions%2F9dceecc21203d7b3
+[debug] [2023-07-04T20:07:35.879Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/channels/live/releases {}
+[debug] [2023-07-04T20:07:37.506Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/channels/live/releases 200
+[debug] [2023-07-04T20:07:37.506Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/pollutiontracker-c57e6/channels/live/releases {"name":"projects/974292969057/sites/pollutiontracker-c57e6/channels/live/releases/1688501253733000","version":{"name":"projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-07-04T20:07:03.778996Z","createUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"},"finalizeTime":"2023-07-04T20:07:32.767411Z","finalizeUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"}},"type":"DEPLOY","releaseTime":"2023-07-04T20:07:33.733Z","releaseUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"}}
+[debug] [2023-07-04T20:07:37.506Z] [hosting] release: {"name":"projects/974292969057/sites/pollutiontracker-c57e6/channels/live/releases/1688501253733000","version":{"name":"projects/974292969057/sites/pollutiontracker-c57e6/versions/9dceecc21203d7b3","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-07-04T20:07:03.778996Z","createUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"},"finalizeTime":"2023-07-04T20:07:32.767411Z","finalizeUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"}},"type":"DEPLOY","releaseTime":"2023-07-04T20:07:33.733Z","releaseUser":{"email":"tanmaypani357@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AAcHTteb1Z1qJ0jkZ_waB0e6q4bc5Nc7NZaI50Vs3lXu_ghT=mo"}}
+[info] +  hosting[pollutiontracker-c57e6]: release complete 
+[info] 
+[info] +  Deploy complete! 
+[info] 
+[info] Project Console: https://console.firebase.google.com/project/pollutiontracker-c57e6/overview
+[info] Hosting URL: https://pollutiontracker-c57e6.web.app
+[debug] [2023-07-04T20:08:08.585Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\TANMAY\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.

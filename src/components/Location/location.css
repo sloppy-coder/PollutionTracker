@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+*{
+  font-family: 'Arvo', serif;
+}
+label {
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 30px;
+    font-size: x-large;
+    font-weight: bold;
+  };
+  .modal-footer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .modal-footer input[type="submit"] {
+    margin-top: 40px;
+  }
+  
