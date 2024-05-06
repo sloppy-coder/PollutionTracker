@@ -1,7 +1,6 @@
 import React from 'react';
 import './main_page.css';
 import { Location } from '../Location/location';
-import { Link } from 'react-router-dom';
 const MainPage = () => {
   return (
     <div>

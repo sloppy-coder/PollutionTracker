@@ -24,7 +24,6 @@ export const Location = (props) => {
     const [locationData] = await locationResponse.json();
     if (locationData) {
       navigate('/pollution', {state: locationData});
-      // console.log("ok");
     } else {
       alert("Invalid Location");
     }

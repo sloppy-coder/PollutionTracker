@@ -11,8 +11,7 @@ import hill5 from './hill5.png';
 import tree from './tree.png';
 import leaf from './leaf.png';
 import plant from './plant.png';
-export const Pollution = () => {
-    
+export const Pollution = () => {  
   const [pollution, setPollution] = useState();
   const [aqi, setAqi] = useState();
   const loc = useLocation().state;
